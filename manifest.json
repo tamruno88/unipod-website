@@ -1,0 +1,12 @@
+{
+  "name": "Unipod — Learn Languages with Podcasts",
+  "short_name": "Unipod",
+  "description": "Learn languages naturally with the podcasts you love. Synchronized transcripts, instant translation, vocabulary flashcards, and AI summaries.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4632D6",
+  "icons": [
+    { "src": "/assets/icons/unipod-mascot.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

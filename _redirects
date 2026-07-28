@@ -1,0 +1,6 @@
+# Cloudflare Pages — redirects
+# https://developers.cloudflare.com/pages/configuration/redirects/
+
+# Normalize non-trailing-slash legal paths
+/privacy   /privacy/   301
+/terms     /terms/     301
