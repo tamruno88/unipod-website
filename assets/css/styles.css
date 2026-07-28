@@ -86,7 +86,7 @@ button:focus-visible {
 }
 .brand { display: flex; align-items: center; gap: 5px; }
 .brand img { width: 40px; height: 40px; object-fit: contain; }
-.brand-name { font-weight: 800; font-size: 24px; letter-spacing: -0.03em; color: var(--indigo); position: relative; top: 5px; left: 2px; }
+.brand-name { font-family: 'Nunito', 'Figtree', sans-serif; font-weight: 800; font-size: 24px; letter-spacing: -0.03em; color: var(--indigo); position: relative; top: 5px; left: 4px; }
 .nav { display: flex; align-items: center; gap: 28px; }
 .nav a { color: var(--slate); font-weight: 600; font-size: 14.5px; }
 
